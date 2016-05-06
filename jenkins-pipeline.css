@@ -281,8 +281,8 @@ table.pipelines td.next {
 }
 
 .SUCCESS {
-    background-color: #26a69a;
-    color: #222;
+    background-color: #26a69a !important;
+    color: #222i !important;
 }
 
 .FAILURE {
